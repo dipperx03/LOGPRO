@@ -1,0 +1,18 @@
+programa
+{
+	
+funcao inicio(){
+	   inteiro idade//variavel idade do tipo inteiro
+
+	     escreva("digite a idade:") //pedir para o usuario digitar sua idade
+	     leia(idade) //inserir idade
+
+          se (idade>=18){
+          	escreva("é de maior.\n")
+          }senao{ 
+          	escreva("menor de idade.\n")
+          }
+          	}
+          	
+          
+}
